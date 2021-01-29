@@ -2,4 +2,4 @@
 
 A API CONSISTE EM CALCULAR O TROCO DE ACORDO COM O VALOR DA COMPRA E O VALOR PAGO, FOI FEITO UM ALGORITMO PARA DEVOLVER O TROCO COM AS MAIORES NOTAS POSSÍVEIS, TODAS AS OPERAÇÕES SÃO REGISTRADAS EM UM BANCO DE DADOS LOCAL SQL SERVER, PARA VERIFICAÇÃO E HISTÓRICO DE SAÍDA DE CÉLULAS.
 
-![alt text](https://res.cloudinary.com/mco/image/upload/v1611927536/Troco-Nota-Moeda/Troco-Nota-Moeda-Postman_dwnd6x.png)
+![alt text](https://res.cloudinary.com/mco/image/upload/v1611927707/Troco-Nota-Moeda/Troco-Nota-Moeda-Postman_hlakmr.png)
